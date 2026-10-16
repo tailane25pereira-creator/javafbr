@@ -1,0 +1,9 @@
+# Compilados do Java
+*.class
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários do SO
+.DS_Store
+Thumbs.db
